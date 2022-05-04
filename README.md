@@ -5,7 +5,7 @@
 
 :earth_americas: 0-year PhD student @ CS.Waterloo
 
-:house:	More about me, find out in my [homepage](xichenpan.cn)!
+:house:	More about me, find out in my [homepage](https://xichenpan.cn)!
 <!--
 **Flash-321/Flash-321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
