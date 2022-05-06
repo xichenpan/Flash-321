@@ -1,9 +1,9 @@
 ### Hi there 👋
 :hugs: I'm Flash
 
-:computer: final-year undergraduate @ CS.SJTU
+:computer: final-year undergraduate@CS.SJTU
 
-:earth_americas: 0-year PhD student @ CS.Waterloo
+:earth_americas: 0-year PhD student@CS.Waterloo
 
 :house:	More about me, find out in my [homepage](https://xichenpan.cn)!
 <!--
