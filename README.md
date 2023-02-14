@@ -5,7 +5,7 @@
 
 :earth_americas: Incoming CS Ph.D. Student @ NYU Courant
 
-:house:	More about me, find out at my [homepage](https://xichenpan.com!
+:house:	More about me, find out at my [homepage](https://xichenpan.com)!
 <!--
 **Flash-321/Flash-321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
