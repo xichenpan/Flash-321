@@ -1,11 +1,11 @@
 ### Hi there 👋
 :hugs: I'm Flash
 
-:computer: final-year undergraduate@CS.SJTU
+:computer: Research Intern @ MSRA
 
-:earth_americas: 0-year PhD student@CS.Waterloo
+:earth_americas: Incoming CS Ph.D. Student @ NYU Courant
 
-:house:	More about me, find out in my [homepage](https://xichenpan.cn)!
+:house:	More about me, find out at my [homepage](https://xichenpan.com!
 <!--
 **Flash-321/Flash-321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
