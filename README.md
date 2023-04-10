@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![info](https://github-readme-stats.vercel.app/api?username=Flash-321&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=xichenpan&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
