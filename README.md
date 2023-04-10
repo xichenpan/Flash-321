@@ -1,9 +1,9 @@
 ### Hi there 👋
 :hugs: I'm Flash
 
-:computer: Research Intern @microsoft
+:computer: Research Intern @ Microsoft
 
-:earth_americas: Incoming CS Ph.D. Student @nyu
+:earth_americas: Incoming CS Ph.D. Student @ NYU Courant
 
 :house:	More about me, find out at my [homepage](https://xichenpan.com)!
 <!--
